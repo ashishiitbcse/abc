@@ -1,6 +1,6 @@
 #%Catalog Descriptor 1.0
 projects:
-  - main: authors-restful-api-1.0.0-raml\authors-restful-api.raml
+  - main: authors-restful-api.raml
     assetId: authors-restful-api
     version: 1.0.0
     apiVersion: v1
